@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "198734673753",
+    "firebase_url": "https://restaurate-a012f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "restaurate-a012f",
+    "storage_bucket": "restaurate-a012f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198734673753:android:02edb61675063d29bcfe48",
+        "android_client_info": {
+          "package_name": "bazaRestau.Rate.PRO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198734673753-d6u1onr74mdss2ekmsf6qipg9ejlog8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy7fJqHkrTkSAfVrtaUQbYhTPBqBZUEDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198734673753-d6u1onr74mdss2ekmsf6qipg9ejlog8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
