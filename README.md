@@ -6,7 +6,7 @@ Wyszukiwanie jest możliwe zarówno po nazwie restauracji, jak i poprzez lokaliz
 
 ---
 
-## Funkcjonalności
+## Funkcjonalność
 
 - logowanie, rejestracja, wylogowanie  
 - wyszukiwanie restauracji w pobliżu na mapie  
